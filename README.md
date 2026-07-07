@@ -2,7 +2,7 @@
 
 A sleek weather forecast app built with React + Vite, powered by the WeatherAPI. Search by city name or use your current location to get real-time conditions and an hourly forecast for the next 24 hours.
 
-🔗 Live Demo:
+🔗 Live Demo:  glistening-gingersnap-e429cc.netlify.app
 
 ✨ Features
 
